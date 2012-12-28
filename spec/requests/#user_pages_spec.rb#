@@ -47,6 +47,6 @@ describe "User pages" do
       end
     end
   end
-
+bundle exec rspec spec/
 
 end

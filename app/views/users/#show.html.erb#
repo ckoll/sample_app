@@ -1,0 +1,4 @@
+<% provide(:title, @user.name) %>
+er %>
+  <%= @user.name %>
+</h1>
